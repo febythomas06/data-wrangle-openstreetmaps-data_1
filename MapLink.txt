@@ -1,0 +1,3 @@
+Milwaukee, WI, US area was chosen, the key reason being i have travelled to their multiple times and i am aware of the key things to be checked.
+
+https://s3.amazonaws.com/metro-extracts.mapzen.com/milwaukee_wisconsin.osm.bz2
